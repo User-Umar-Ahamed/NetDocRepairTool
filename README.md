@@ -37,9 +37,6 @@ All actions performed by the tool are saved in:
 
 NetDoctorLog.txt
 
-yaml
-Copy code
-
 Log entries are timestamped for easier review and technical support reference.
 
 ---
